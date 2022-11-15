@@ -1,11 +1,11 @@
 {
-  "ownerNumber": ["6289519240209@s.whatsapp.net"],
+  "ownerNumber": ["62895324783084@s.whatsapp.net"],
   "ownerName": ["Bersama Dia"],
-  "botName": "No Name©",
+  "botName": "HansBotz©",
   "sessionName": "LatinaQr",
   "pathimg": "./media/Latina.jpg",
-  "gamewaktu": 90,
-  "limitCount": 25,
+  "gamewaktu": 240,
+  "limitCount": 100,
   "gcount": {
 	"prem": 35,
 	"user": 15
